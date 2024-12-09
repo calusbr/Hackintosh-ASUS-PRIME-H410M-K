@@ -27,7 +27,7 @@
 
 # ⚙️ <img src="https://img.shields.io/badge/HARDWARE-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
 
-<img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/logo_hp.png?raw=true" align="right" alt="" width="120" height="120">
+<img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/logo_asus.png?raw=true" align="right" alt="" width="120" height="120">
 
 |Summary | Details|
 ---------|:--
@@ -45,7 +45,7 @@ USB | 2.0/3.0 AppleUSBXHCIPCI
 HWINFO | [System Information](https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/HWiNFO%20-%20HP_ELITEONE_800_G1.HTM)
 
 <p align="center">
-<img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/logo_hp.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/cpu.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/gpu.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/wifi.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/ethernet.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/audio.png?raw=true" align="center" alt="" width="80" height="80">
+<img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/logo_asus.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/cpu.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/gpu.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/wifi.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/ethernet.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/audio.png?raw=true" align="center" alt="" width="80" height="80">
 </p>
 
 <p align="center">
