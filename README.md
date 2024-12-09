@@ -42,7 +42,7 @@ Wifi/Bluetooth | RealTek Semiconductor RTL8192EE
 Ethernet | RealTek Semiconductor RTL8168/8111
 Audio | RealTek ALC897
 USB | 2.0/3.0 AppleUSBXHCIPCI
-HWINFO | [System Information](https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/HWiNFO%20-%20HP_ELITEONE_800_G1.HTM)
+HWINFO | [System Information](https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/HWiNFO%20-%20ASUS-PRIME-H410M-K.HTM)
 
 <p align="center">
 <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/logo_asus.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/cpu.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/gpu.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/wifi.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/ethernet.png?raw=true" align="center" alt="" width="80" height="80"> <img src="https://github.com/calusbr/Hackintosh-ASUS-PRIME-H410M-K/blob/main/icons/audio.png?raw=true" align="center" alt="" width="80" height="80">
